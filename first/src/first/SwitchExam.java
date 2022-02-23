@@ -1,7 +1,7 @@
 package first;
 
 public class SwitchExam {
-    
+     
 	public static void main(String[] args) {
 		//switch, case, default, break 
 		

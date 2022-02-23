@@ -1,5 +1,5 @@
 package first;
- 
+  
 public class EnumExam {
 	public static final String MALE = "MALE";
 	public static final String FEMALE = "FEMALE";

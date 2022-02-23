@@ -1,7 +1,7 @@
 package first;
 
 import java.util.Scanner;
- 
+  
 public class DoWhileExam {
  
 	public static void main(String[] args) {
