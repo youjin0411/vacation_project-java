@@ -3,7 +3,7 @@ package first;
 public class VariableScopeExam {
 	int globalScope = 10;
 	static int staticVal = 7; 
-	   
+	    
 	public void scopeTest(int value) {
 		int localScope = 20;
 		 

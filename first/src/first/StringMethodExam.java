@@ -1,7 +1,7 @@
 package first;
 
 public class StringMethodExam {
- 
+  
 	public static void main(String[] args) {
 //		String str = new String("hello");
 		String str = "hello";

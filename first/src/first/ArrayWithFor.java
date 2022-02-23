@@ -1,7 +1,7 @@
 package first;
 
 public class ArrayWithFor {
- 
+  
 	public static void main(String[] args) {
 		int[] iarray = new int[100];
 		iarray[0]=1;

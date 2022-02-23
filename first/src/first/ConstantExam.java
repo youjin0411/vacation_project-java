@@ -6,7 +6,7 @@ public class ConstantExam {
 		int i;
 		i = 10;
 		i = 5;
-		
+		 
 		final int J;
 		J = 10;
 		
