@@ -6,7 +6,7 @@ public class VariableScopeExam {
 	   
 	public void scopeTest(int value) {
 		int localScope = 20;
-		
+		 
 		System.out.println(globalScope);
 		System.out.println(localScope);
 		System.out.println(value);

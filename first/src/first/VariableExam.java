@@ -4,7 +4,7 @@ public class VariableExam {
 
 	public static void main(String[] args) {
 		int count;	//타입 변수명;
-		
+		 
 		count = 10;
 		
 		count = 20;

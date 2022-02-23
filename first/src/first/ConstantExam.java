@@ -1,7 +1,7 @@
 package first;
 
 public class ConstantExam {
-
+ 
 	public static void main(String[] args) {
 		int i;
 		i = 10;

@@ -14,5 +14,5 @@ public class ArrayExam2 {
 		
 		System.out.println(array6[2][2]);
 	}
-
+	
 }
