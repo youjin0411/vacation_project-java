@@ -1,5 +1,5 @@
 package first;
-
+ 
 public class Myclass {
 //	public 리턴타입 메소드명(매개변수 들) { 구현  }
 	public void method1() {

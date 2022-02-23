@@ -1,7 +1,7 @@
 package first;
 
 public class PrimitveDataTypeExam {
-   
+    
 	public static void main(String[] args) {
 		boolean isFun = false;
 		System.out.println(isFun);

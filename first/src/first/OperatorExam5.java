@@ -1,7 +1,7 @@
 package first;
 
 public class OperatorExam5 {
-   
+    
 	public static void main(String[] args) {
 		boolean b1 = true;
 		boolean b2 = false;
