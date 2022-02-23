@@ -5,7 +5,7 @@ public class CarExam {
 	public static void main(String[] args) {
 		Car c1 = new Car();
 		Car c2 = new Car();
-		 
+		  
 		c1.name = "¼Ò¹æÂ÷";
 		c1.number = 1234;
 		

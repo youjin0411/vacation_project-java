@@ -1,7 +1,7 @@
 package first;
 
 public class TypeCastingExam {
-  
+   
 	public static void main(String[] args) {
 		int x = 50000;
 		long y = x;  //묵시적 형변환

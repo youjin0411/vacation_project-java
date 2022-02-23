@@ -1,7 +1,7 @@
 package first;
 
 public class VariableExam {
- 
+  
 	public static void main(String[] args) {
 		int count;	//타입 변수명;
 		 

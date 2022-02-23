@@ -7,7 +7,7 @@ public class EnumExam {
 		String gender1;
 		gender1 = EnumExam.MALE;
 		gender1 = EnumExam.FEMALE;
-		  
+		   
 		gender1 = "boy";
 		
 		Gender gender2;

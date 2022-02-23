@@ -1,7 +1,7 @@
 package first;
 
 public class MyclassExam {
-  
+   
 	public static void main(String[] args) {
 		Myclass myclass = new Myclass();
 		myclass.method1();
